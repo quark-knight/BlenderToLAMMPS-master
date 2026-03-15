@@ -314,9 +314,6 @@ Current version limitations:
 6. Presets: Advanced material presets and scientific rendering presets
 6. Other formats: Support other files formats like xyz, gromacs and pdb
 
-### Frame-by-frame Simulation Playback
-
-Visualize LAMMPS trajectories directly in Blender.
 
 ---
 
