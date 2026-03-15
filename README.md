@@ -5,6 +5,9 @@
 [![Blender](https://img.shields.io/badge/Blender-5.0%2B-orange)](https://www.blender.org/support/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![LAMMPS](https://img.shields.io/badge/Supports-LAMMPS-red)](https://www.lammps.org/)
+![GitHub stars](https://img.shields.io/github/stars/quark-knight/BlenderToLAMMPS-master)
+![GitHub last commit](https://img.shields.io/github/last-commit/quark-knight/BlenderToLAMMPS-master)
+<!-- ![GitHub downloads](https://img.shields.io/github/downloads/quark-knight/BlenderToLAMMPS-master/total)-->
 <!-- ![License](https://img.shields.io/badge/License-MIT-green) -->
 
 Import **LAMMPS dump files** into **Blender** and visualize atoms as **spheres with per-atom radius**.
